@@ -1,0 +1,13 @@
+<mvc:View controllerName="leaverequestnew.controller.App"
+    displayBlock="true"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+     <SplitApp id="app">
+    <masterPages>
+      <mvc:XMLView viewName="leaverequestnew.view.Master" />
+    </masterPages>
+    <detailPages>
+      <mvc:XMLView viewName="leaverequestnew.view.Detail" />
+    </detailPages>
+  </SplitApp>
+</mvc:View>

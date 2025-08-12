@@ -1,0 +1,14 @@
+{
+  "LeaveRequests": [
+    { "Employee": "Adam IT EE 01", "Reason": "Vacation", "StartDate": "2025-06-25", "EndDate": "2025-06-27" },
+    { "Employee": "Sarah DevOps", "Reason": "Medical", "StartDate": "2025-06-26", "EndDate": "2025-06-28" },
+    { "Employee": "John Analyst", "Reason": "Training", "StartDate": "2025-06-20", "EndDate": "2025-06-23" },
+    { "Employee": "Mary QA", "Reason": "Maternity Leave", "StartDate": "2025-07-01", "EndDate": "2025-07-15" },
+    { "Employee": "Tom Finance", "Reason": "Conference", "StartDate": "2025-06-29", "EndDate": "2025-06-30" },
+    { "Employee": "Lisa HR", "Reason": "Vacation", "StartDate": "2025-07-05", "EndDate": "2025-07-10" },
+    { "Employee": "Mark PM", "Reason": "Training", "StartDate": "2025-06-18", "EndDate": "2025-06-19" },
+    { "Employee": "Rachel Support", "Reason": "Sick Leave", "StartDate": "2025-06-15", "EndDate": "2025-06-17" },
+    { "Employee": "Victor Design", "Reason": "Conference", "StartDate": "2025-07-12", "EndDate": "2025-07-14" },
+    { "Employee": "Ella IT", "Reason": "Personal", "StartDate": "2025-06-22", "EndDate": "2025-06-24" }
+  ]
+}
